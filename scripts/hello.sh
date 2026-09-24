@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from server A"
+echo "Hallo from server"
